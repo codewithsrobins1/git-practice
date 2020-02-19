@@ -1,5 +1,10 @@
 body{
-    color: limegreen;
+    color: purple;
+}
+
+p{
+    font-size: 3em;
+    color: dodgerblue;
 }
 
 h1{
